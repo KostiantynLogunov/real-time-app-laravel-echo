@@ -12,7 +12,11 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('chat');
+});
+
+Route::post('messages', function (\Illuminate\Http\Request $request) {
+    \App\Events\Message::dispatch($request->input('body'));
 });
 
 Auth::routes();
