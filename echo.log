@@ -1,0 +1,127 @@
+Error: laravel-echo-server.json file not found.
+Error: laravel-echo-server.json file not found.
+Error: laravel-echo-server.json file not found.
+Error: laravel-echo-server.json file not found.
+sudo: /home/vagrant/realtimeapp-laravel-echo/laravel-echo-server: command not found
+sudo: /home/vagrant/realtimeapp-laravel-echo/laravel-echo-server: command not found
+sudo: /home/vagrant/realtimeapp-laravel-echo/laravel-echo-server: command not found
+sudo: /home/vagrant/realtimeapp-laravel-echo/laravel-echo-server: command not found
+
+L A R A V E L  E C H O  S E R V E R
+
+version 1.3.9
+
+⚠ Starting server in DEV mode...
+
+✔  Running at localhost on port 6001
+✔  Channels are ready.
+✔  Listening for http events...
+✔  Listening for redis events...
+
+Server ready!
+
+[09:59:47] - iVtovT2ulGHN--ubAAAA authenticated for: presence-room.1
+[09:59:47] - iVtovT2ulGHN--ubAAAA joined channel: presence-room.1
+[09:59:50] - AV_A6GXfVNtIS80_AAAB authenticated for: presence-room.1
+[09:59:50] - AV_A6GXfVNtIS80_AAAB joined channel: presence-room.1
+[10:00:07] - iVtovT2ulGHN--ubAAAA left channel: presence-room.1 (transport close)
+[10:00:07] - z5LljxGfBsLL5WxkAAAC authenticated for: presence-room.1
+[10:00:07] - z5LljxGfBsLL5WxkAAAC joined channel: presence-room.1
+[10:00:13] - AV_A6GXfVNtIS80_AAAB left channel: presence-room.1 (transport close)
+[10:00:14] - ITUNsBwuHV94y753AAAD authenticated for: presence-room.1
+[10:00:14] - ITUNsBwuHV94y753AAAD joined channel: presence-room.1
+[10:00:20] - ITUNsBwuHV94y753AAAD left channel: presence-room.1 (transport close)
+[10:00:21] - c5pideEzJstR4-8iAAAE joined channel: chat
+[10:00:21] - c5pideEzJstR4-8iAAAE left channel: chat (transport close)
+[10:00:22] - HylVKIEoHEPrRbi7AAAF authenticated for: presence-room.1
+[10:00:22] - HylVKIEoHEPrRbi7AAAF joined channel: presence-room.1
+Channel: presence-room.1
+Event: App\Events\PrivateChat
+
+L A R A V E L  E C H O  S E R V E R
+
+version 1.3.9
+
+⚠ Starting server in DEV mode...
+
+✔  Running at localhost on port 6001
+✔  Channels are ready.
+✔  Listening for http events...
+✔  Listening for redis events...
+
+Server ready!
+
+[10:04:18] - pqGw1H4ebmv6jwDuAAAA authenticated for: presence-room.1
+[10:04:18] - pqGw1H4ebmv6jwDuAAAA joined channel: presence-room.1
+[10:04:18] - AgaCQcXJnohZpq9gAAAB authenticated for: presence-room.1
+[10:04:18] - AgaCQcXJnohZpq9gAAAB joined channel: presence-room.1
+Channel: presence-room.1
+Event: App\Events\PrivateChat
+
+L A R A V E L  E C H O  S E R V E R
+
+version 1.3.9
+
+⚠ Starting server in DEV mode...
+
+✔  Running at localhost on port 6001
+✔  Channels are ready.
+✔  Listening for http events...
+✔  Listening for redis events...
+
+Server ready!
+
+[10:19:32] - Cd_05FWNKr3mkp5AAAAA authenticated for: presence-room.1
+[10:19:32] - Cd_05FWNKr3mkp5AAAAA joined channel: presence-room.1
+[10:19:32] - 1lCP5BYXFk7mXLQnAAAB authenticated for: presence-room.1
+[10:19:32] - 1lCP5BYXFk7mXLQnAAAB joined channel: presence-room.1
+
+L A R A V E L  E C H O  S E R V E R
+
+version 1.3.9
+
+⚠ Starting server in DEV mode...
+
+✔  Running at localhost on port 6001
+✔  Channels are ready.
+✔  Listening for http events...
+✔  Listening for redis events...
+
+Server ready!
+
+[10:26:29] - AB0QW1orh4S9xxqPAAAA authenticated for: presence-room.1
+[10:26:29] - AB0QW1orh4S9xxqPAAAA joined channel: presence-room.1
+[10:26:29] - s-4C7f0N57mZ-SjkAAAB authenticated for: presence-room.1
+[10:26:29] - s-4C7f0N57mZ-SjkAAAB joined channel: presence-room.1
+[10:26:36] - AB0QW1orh4S9xxqPAAAA left channel: presence-room.1 (transport close)
+[10:26:41] - BzqK4Im6twVkRuOPAAAC authenticated for: presence-room.1
+[10:26:41] - BzqK4Im6twVkRuOPAAAC joined channel: presence-room.1
+[10:26:42] - s-4C7f0N57mZ-SjkAAAB left channel: presence-room.1 (transport close)
+[10:26:43] - SyfrSo2rXXPiJ9PTAAAD authenticated for: presence-room.1
+[10:26:43] - SyfrSo2rXXPiJ9PTAAAD joined channel: presence-room.1
+Channel: presence-room.1
+Event: App\Events\PrivateChat
+[10:27:30] - SyfrSo2rXXPiJ9PTAAAD left channel: presence-room.1 (transport close)
+[10:27:31] - YDm5wk7DeKBs6eysAAAE joined channel: chat
+[10:27:32] - YDm5wk7DeKBs6eysAAAE left channel: chat (transport close)
+[10:27:33] - YcYD0ZJBbAm7I1bVAAAF authenticated for: presence-room.1
+[10:27:33] - YcYD0ZJBbAm7I1bVAAAF joined channel: presence-room.1
+Channel: presence-room.1
+Event: App\Events\PrivateChat
+Channel: presence-room.1
+Event: App\Events\PrivateChat
+[11:00:30] - BzqK4Im6twVkRuOPAAAC left channel: presence-room.1 (ping timeout)
+[11:03:47] - mHs2KUkmNjuWQBDyAAAG authenticated for: presence-room.1
+[11:03:47] - mHs2KUkmNjuWQBDyAAAG joined channel: presence-room.1
+[11:03:49] - mHs2KUkmNjuWQBDyAAAG left channel: presence-room.1 (transport close)
+[11:03:49] - dp0yOHg94K29gQKdAAAH authenticated for: presence-room.1
+[11:03:49] - dp0yOHg94K29gQKdAAAH joined channel: presence-room.1
+[11:03:53] - YcYD0ZJBbAm7I1bVAAAF left channel: presence-room.1 (transport close)
+[11:03:54] - WXL_c6DBvDn2s9gmAAAI authenticated for: presence-room.1
+[11:03:54] - WXL_c6DBvDn2s9gmAAAI joined channel: presence-room.1
+Channel: presence-room.1
+Event: App\Events\PrivateChat
+Channel: presence-room.1
+Event: App\Events\PrivateChat
+Channel: presence-room.1
+Event: App\Events\PrivateChat
