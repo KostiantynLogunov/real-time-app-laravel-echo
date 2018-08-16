@@ -49,6 +49,7 @@ window.io = require('socket.io-client');
 
 window.Echo = new Echo({
     broadcaster: 'socket.io',
+    // host: 'http://rtime-laravel-echo:6001'
     host:window.location.hostname + ':6001'
 });
 

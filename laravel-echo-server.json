@@ -1,5 +1,5 @@
 {
-	"authHost": "http://localhost",
+	"authHost": "http://rtime-laravel-echo",
 	"authEndpoint": "/broadcasting/auth",
 	"clients": [],
 	"database": "redis",
